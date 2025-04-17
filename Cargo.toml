@@ -1,0 +1,7 @@
+[package]
+name = "bindot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rustic_bitmap = { path = "rustic_bitmap/" }
